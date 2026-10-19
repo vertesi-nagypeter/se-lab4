@@ -1,3 +1,5 @@
 SUCCESS
 FAIL
 FAIL
+FAIL
+Unknown command: 'GT400G'
